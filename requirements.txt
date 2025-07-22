@@ -1,0 +1,16 @@
+streamlit
+langchain
+faiss-cpu
+unstructured
+python-docx
+PyMuPDF
+pdfminer.six
+pypdf
+tiktoken
+huggingface-hub
+sentence-transformers
+torch
+transformers
+Pillow
+langchain-community
+unstructured[pdf]
